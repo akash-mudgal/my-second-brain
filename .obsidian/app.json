@@ -1,0 +1,10 @@
+{
+  "newFileLocation": "current",
+  "newFileFolderPath": "Zettelkasten",
+  "attachmentFolderPath": "Files",
+  "userIgnoreFilters": [
+    "Journal/",
+    "Files/",
+    "Templates/"
+  ]
+}
