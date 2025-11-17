@@ -2,7 +2,7 @@
   "types": {
     "aliases": "aliases",
     "cssclasses": "multitext",
-    "tags": "text",
+    "tags": "tags",
     "TQ_explain": "checkbox",
     "TQ_extra_instructions": "text",
     "TQ_short_mode": "checkbox",
